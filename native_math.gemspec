@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["george.withers@gmail.com"]
 
   spec.summary       = %q{Simple experiment in native ruby gems}
+  spec.description   = %q{Simple experiment in native ruby gems making a tiny set of math functions}
   spec.homepage      = "https://github.com/gwithers/native_math"
   spec.license       = "MIT"
 
